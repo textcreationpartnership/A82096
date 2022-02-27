@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of all the passages at the taking of Portsmouth; shewing the reasons why it was surrendred [sic] up to the committee of both Houses of Parliament: together with a true copy of the articles agreed upon between the committee and Colonell Goring.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82096</idno>
+            <idno type="STC">Wing D604</idno>
+            <idno type="STC">Thomason E117_10</idno>
+            <idno type="STC">ESTC R19285</idno>
+            <idno type="EEBO-CITATION">99860632</idno>
+            <idno type="PROQUEST">99860632</idno>
+            <idno type="VID">156068</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156068)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E117[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of all the passages at the taking of Portsmouth; shewing the reasons why it was surrendred [sic] up to the committee of both Houses of Parliament: together with a true copy of the articles agreed upon between the committee and Colonell Goring.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Sweeting at the Angell in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 15. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goring, George Goring, --  Baron, 1608-1657.</term>
+               <term>England and Wales. --  Parliament.</term>
+               <term>Portsmouth (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156068:1"/>
+            <pb facs="tcp:156068:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of all the paſſages at the taking of PORTSMOVTH; SHEWING The reaſons why it was ſurrendred up to the Committee of both Houſes of <hi>PARLIAMENT:</hi> Together with a true copy of the Articles agreed upon between the Committee and Colonell <hi>Goring.</hi>
+            </p>
+            <p>London Printed for <hi>John Sweeting</hi> at the <hi>Angell</hi> in Popes-head Alley. <hi>Septemb.</hi> 15. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:156068:2"/>
+            <pb n="3" facs="tcp:156068:2"/>
+            <head>The Declaration of all ſuch Officers as were in the Towne of Portſmouth in the County of Southampton, when the ſame was beſieged, made the ſixt day of September, in the eighteenth yeare of the Raigne of our Soveraigne Lord King <hi>Charles.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe are the Reaſons why the Towne of <hi>Portſ<g ref="char:EOLhyphen"/>mouth</hi> was delivered up to the Committee of Parliament.</p>
+            <p>There was upon the ſecond of <hi>Auguſt,</hi> 1642. which was the day the Governour de<g ref="char:EOLhyphen"/>clared that hee held and reſolved hee would hold the Towne for his Majeſties ſervice: In the Towne of <hi>Portſ<g ref="char:EOLhyphen"/>mouth</hi> of the ordinary Garriſon about 300. perſons, and of the Towneſmen, about one hundred, that were able to beare Armes, and of the Iſland which was alſo under the com<g ref="char:EOLhyphen"/>mand of the Governour about 100. fighting men more.</p>
+            <p>Of Officers with their Servants there were then about 50. with their, and the Governours Horſes there was above 50. Horſe, Of victual there was not by eſtimation ſufficient for this number above two dayes.</p>
+            <p>The Towne it ſelfe unfortified and very weake in many places; the <hi>Thurſday</hi> following the Countie of <hi>Hampſhiere</hi> by virtue of Order from the Parliament, began to aſſemble againſt the Towne, and from that time forward proviſion came in, but with great difficultie.</p>
+            <p>The Commiſſions of Array were daily expected by us to
+<pb n="4" facs="tcp:156068:3"/>bee put in execution for reliefe of us according to pro<g ref="char:EOLhyphen"/>miſe.</p>
+            <p>The orders for the <hi>Militia</hi> were put in execution, which cauſed one or more companies of the Trained Bands, which had formerly declared for the King, to turne about and ex<g ref="char:EOLhyphen"/>preſſe themſelves for the Parliament.</p>
+            <p>All Souldiers and Townſmen in <hi>Portſmouth,</hi> 3. or 4. ex<g ref="char:EOLhyphen"/>cepted, did agree to the Governours Declaration, and not<g ref="char:EOLhyphen"/>withſtanding within leſſe then 10. daies, above halfe of them forſooke the towne. Divers Gentlemen of the County of <hi>Southampton,</hi> and parts adjacent promiſed to come into Towne with men and horſe, whereby we had fitted up our Troopes of Horſe and Foot, but moſt of them failed, by reaſon of the gathering together of the Country Forces, and the approaching of others from <hi>London.</hi>
+            </p>
+            <p>The Saturday after being the 6. of <hi>Auguſt,</hi> all proviſions and ſuccours from the Iſſle of <hi>Wight</hi> were ſtopt, and upon Munday morning following the Kings Ships rode before the Towne.</p>
+            <p>Upon Thurſday a Meſſenger with ſome difficulty came into the Towne, with Letters from his Majeſtie, which gave great comfort to the Souldiers and Townſmen, who were much out of heart before.</p>
+            <p>The next day after being Friday, we were alſolutely block<g ref="char:EOLhyphen"/>ed up by Sea and by Land.</p>
+            <p>The Wedneſday before the <hi>Maria</hi> Pinnace was ready rigged and manned with about 14. perſons, of which, two were officers was taken without ſtriking one blow, which we conceive was by the treachery of <hi>Goodwin,</hi> the Maſter thereof. We continually led on and encouraged the Soul<g ref="char:EOLhyphen"/>diers with the expectation of the Kings comming, or Forces from his Majeſty, but at length they finding themſelves de<g ref="char:EOLhyphen"/>layed, grew impatient, and ſo bold, that they declared
+<pb n="5" facs="tcp:156068:3"/>they would not fight againſt, but rather take part with thoſe without the Towne: So that with a very ſmall number of Officers and Gentlemen; wee were forced not onely to keepe watch over thoſe that were without, but thoſe that were within the towne.</p>
+            <p>About eight or ten days after they began to raiſe ſeverall batteries againſt the Towne at <hi>Gooſeport,</hi> from one of which they begun to play upon Friday the ſecond of <hi>September</hi> up<g ref="char:EOLhyphen"/>on the Towne, which made the common Souldiers of the Garriſon very unwilling to ſtand to their Armes or work</p>
+            <p>This playing of the Ordnance upon the Towne continu<g ref="char:EOLhyphen"/>ed till Sunday morning following, with ſome intermiſſion in the firſt night.</p>
+            <p>On Saturday night before, <hi>Southſea</hi> Caſtle was taken without one blow ſtriken.</p>
+            <p>After <hi>Southſea</hi> Caſtle was taken, the Maior of the Town, one Lieutenant, one Enſigne, and other inferior Officers ſtealing out of Towne over the wall did ſo much increaſe the feare and villanie of the common Souldiers, that as ma<g ref="char:EOLhyphen"/>ny of them dropt away, ſo we concluded all of us that there was not one of them all that remayned would fight: Be<g ref="char:EOLhyphen"/>ſides, it was concluded by us all that no one part of the Towne was ſo perfectly furniſhed that it was poſſible with our ſmall number to hold it out againſt an aſ<g ref="char:EOLhyphen"/>ſault.</p>
+            <p>Upon this all the common Soldiers and Townſmen be<g ref="char:EOLhyphen"/>ing poſſeſſed with feare of having the Towne battered down on all ſides, and being frighted more by their wives, did throw away their Armes, and abſolutely refuſed to doe dutie: And though ſome of them were perſwaded to return to their guards, yet they profeſſed that if there ſhould come aſſault the would not fight a ſtroke.</p>
+            <pb n="6" facs="tcp:156068:4"/>
+            <p>This cauſed the Officers of the Garriſon to deſire my Lord <hi>Wentworth</hi> to ſend Maſter <hi>Weſton</hi> to the Governour to demand a councell of Warre, which hee preſently called, wherein the Reaſons aforeſaid, and an eſtimate made of all the men wee could draw to fight, which were not above the number of threeſcore at moſt, and thoſe, Gentlemen and their ſervants which were not uſed either to traverſing of great Guns or uſe of Musquets. The Councell of Warre, <hi>(Nullo contradicente)</hi> grew to this reſolution, of ſending for a parley upon the moſt honorable conditions wee could get.</p>
+         </div>
+         <div type="articles">
+            <pb n="7" facs="tcp:156068:4"/>
+            <head>Articles agreed upon between the Com<g ref="char:EOLhyphen"/>mittee for the Parliament in the County of <hi>Southampton,</hi> and Colonell <hi>Goring,</hi> for, and on his own behalfe, and other the Officers and Souldiers within the Garriſon of <hi>Portſmouth,</hi> fort he rendring up of the ſaid Towne.</head>
+            <p>FIrſt, that the Committee for the Parliament ſhall this day, being the ſeventh day of <hi>September, Anno Dom.</hi> 1642. at, or about ſix of the Clocke in the morning put in two Companies of Foot in the Town of <hi>Portſmouth,</hi> for preventing of diſorders, &amp; preſervation of the Magazine.</p>
+            <p>Secondly, that all ſuch perſons as are not of the old Gar<g ref="char:EOLhyphen"/>riſon, excepting Colonell <hi>Goring,</hi> the Lord <hi>Wentworth,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Weſton,</hi> Maſter <hi>Coviſt,</hi> with their ordinary ſervants, ſhall forthwith iſſue out of Towne, and have free liberty to paſſe and goe whereſoever they pleaſe in this Kingdome, except unto any part of that Army raiſed againſt the Parliament, with their Horſes, Swords, and Piſtols, but no other Arms, and all other their goods whatſoever, and that they may be allowed twenty days for their journey, they carrying themſelves according to the Laws, in a peaceable manner.</p>
+            <p>Thirdly, that Sir <hi>Thomas Jervaſe,</hi> Sir <hi>William Walter,</hi> who with one ſervant a piece, and Serjeant Major <hi>Lobbe,</hi> ſhall go into the Towne to take poſſeſſion of the Stores, and ſeverall proviſions in the Towne, and that for their ſecurity Maſter <hi>Weſton,</hi> Maſter <hi>Coviſt,</hi> Lieutenant Colonell <hi>Donnet</hi> be delivered as Hoſtages.</p>
+            <p>Fourthly, that if any of the ſaid perſons in the Town de<g ref="char:EOLhyphen"/>ſire to go beyond the Sea, they may have liberty to paſſe with their proper goods in that Towne, (Armes only ex<g ref="char:EOLhyphen"/>cepted)
+<pb n="8" facs="tcp:156068:5"/>without the moleſtation of any one, and a Ship to convey them.</p>
+            <p>Fifthly, that all Officers and Souldiers under the Gover<g ref="char:EOLhyphen"/>nour, that were formerly of this Garriſon, and now reſiding in Towne, ſhall continue their places, or have three moneths liberty to ſell, or otherwiſe diſpoſe thereof to ſome other perſons, except ſuch as have bin put in ſince the laſt of <hi>July.</hi>
+            </p>
+            <p>Sixthly, that no perſon whatſoever, now reſiding in Towne, and who within any time ſince the firſt of <hi>Auguſt</hi> hath reſided in Towne, that hath done any act for the keep<g ref="char:EOLhyphen"/>ing, defence, or maintenance thereof, or uſed any other words in juſtification of the maintenance thereof, on the be<g ref="char:EOLhyphen"/>halfe of the Kings Majeſty, ſhall be queſtioned or moleſted.</p>
+            <p>Seventhly, that ſuch Souldiers as are run from their Co<g ref="char:EOLhyphen"/>lours to the Towne, ſhall be excluded out of this Treaty.</p>
+            <p>Eighthly, that there ſhall be no Traine left to any Mine, or to the Magazine, whereby to blow up the Towne, or en<g ref="char:EOLhyphen"/>damage the Garriſon that ſhall be put into it, And that the Governour, Gentlemen of quality, and all the Officers of the ſaid Towue ſhall diſcover upon their Oathes, what they know concerning any ſuch things, and that ſufficient Hoſta<g ref="char:EOLhyphen"/>ges be given for performance thereof, who are to be retained two dayes in the cuſtody of ſuch perſon as ſhall be put in the Towne as Governour.</p>
+            <p>Ninthly, that Carriages ſhall be provided for the uſe of ſuch perſons as ſhall iſſue out of the Towne, they paying the uſuall rates for them.</p>
+            <p>Tenthly, that all priſoners on both ſides be releaſed, ex<g ref="char:EOLhyphen"/>cepting ſuch as are ſent up to <hi>London.</hi>
+            </p>
+            <p>Eleventhly, that the Governour ſhall preſently after de<g ref="char:EOLhyphen"/>livery up of the Town, which ſhall be on Thurſday next, by nine of the Clock in the morning, have permiſſion from the Committee to diſpatch ſuch a Gentleman to the King, as hee ſhall name.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
